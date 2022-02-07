@@ -1,4 +1,4 @@
-# Star Wards Characters
+# Mi primer UI con React Native
 
 This project was created using React Native by Rodrigo Calle as a bootcamp mission.
 
