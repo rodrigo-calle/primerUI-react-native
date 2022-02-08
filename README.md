@@ -15,7 +15,7 @@ In this project I made my first component in React Native and show some static d
 
 
 #### Preview
-![loader-sw](https://i.ibb.co/X3sbPtR/frame.png)
+![loader-sw](https://i.ibb.co/7g1hfLr/frame.png)
 
 
 #### Note: 
