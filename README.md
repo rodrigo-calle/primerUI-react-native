@@ -1,4 +1,4 @@
-# My firt UI with React Native
+# My first UI with React Native
 
 This project was created using React Native by Rodrigo Calle as a bootcamp mission.
 
