@@ -1,9 +1,9 @@
-# Star Wards Characters
+# Mi primer UI con React Native
 
 This project was created using React Native by Rodrigo Calle as a bootcamp mission.
 
 
-In this project I made my first component in React Native and show some static data in it in cards
+In this project I made my first component in React Native and show some static data in cards
 
 ## How to use this project
 ### Steps: 
